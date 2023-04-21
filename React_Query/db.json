@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": "fbf182df-44b7-4549-bf57-eafc292fb371",
+      "title": "Hello I am three",
+      "body": "Three"
+    },
+    {
+      "id": "351d711c-8d13-48fc-a4a6-23196c941867",
+      "title": "Title number 33",
+      "body": "Three 33"
+    }
+  ]
+}
